@@ -1,4 +1,6 @@
 # zyre-compiled-libraries
+Zyre - an open-source framework for proximity-based peer-to-peer applications
+Source - https://github.com/zeromq/zyre
 
 * This includes zyre library and its dependant libraries(czmq, libzmq, libsodium) compiled for iOS architectures (armv7, armv7s, arm64, i386, x86-64).
 * Drag and drop the libraries in xcode project to start building zyre based iOS project.
