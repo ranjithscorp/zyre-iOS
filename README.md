@@ -6,11 +6,6 @@ Source - https://github.com/zeromq/zyre
 * Drag and drop the libraries in xcode project to start building zyre based iOS project.
 * Libraries compiled to work on iOS 7 and above.
 
-## zyre-demo
-
-* Demo app for iOS to test the zyre library.
-* Open zyre-demo project in Xcode and run it as an iOS app.
-
 ## zyre-scripts
 
 This includes the scripts for building the library and its dependant libraries for iOS.
